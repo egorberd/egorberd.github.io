@@ -1,0 +1,108 @@
+body {
+
+    background-image: url(1593660375_116-p-foni-dlya-saita-152.png);
+
+}
+
+header {
+    margin: 0px 130px 0px 130px;
+
+}
+
+h1 {
+    border-style: groove;
+}
+
+
+ul {
+    font-size: 18pt;
+    padding: 0px;
+}
+
+.image {
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #999999;
+}
+
+.table-info {
+    font-size: 30px;
+    color: white;
+}
+
+.table-info th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.main {
+    background-color: #f0f0f0;
+    padding: 50px 200px 50px 200px;
+    margin: 20px auto;
+    width: 900px;
+    height: auto;
+    border: 7px double black;
+}
+
+article {
+    font-size: 16pt;
+
+}
+
+.tab-1 {
+    border-collapse: collapse;
+}
+
+.tab-1 td {
+    border: 1px solid black;
+    padding: 15px;
+    padding-left: 150px;
+}
+
+.tab-1 caption {
+    caption-side: top;
+    text-align: left;
+    font-size: 18pt;
+}
+
+.tab-2 {
+    border-collapse: collapse;
+}
+
+.tab-2 td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.tab-2 caption {
+    caption-side: top;
+    text-align: left;
+    font-size: 18pt;
+}
+
+.form_1 {
+    font-size: 25px;
+    width: 500px;
+    //margin: 0 auto;
+    padding: 20px;
+
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+
+
+.form_2 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    width: 500px;
+    //margin: 0 auto;
+    padding: 20px;
+
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #cccccc;
+}
